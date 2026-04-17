@@ -4,6 +4,8 @@
 
 Code from our [CCN 2025](https://2025.ccneuro.org/) 8-page paper investigating how convolutional neural networks and CORnet models encode numerosity at the population level.
 
+The OSF project page can be accessed here: [https://osf.io/6gdfu/](https://osf.io/6gdfu/)
+
 Links to download the model weights:
 - [[Link]](https://osf.io/download/qdres/) CORnet-Z trained on DeWind dataset
 - [[Link]](https://osf.io/download/ek7vw/) CORnet-Z trained on ISA2 dataset
